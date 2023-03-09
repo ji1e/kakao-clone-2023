@@ -1,3 +1,3 @@
 # Kakao Clone 2023
 
-hello
+HTML & CSS are amazing!
